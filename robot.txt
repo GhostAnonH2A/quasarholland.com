@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quasarholland.com/video/sabaslots/sitemap.xml
